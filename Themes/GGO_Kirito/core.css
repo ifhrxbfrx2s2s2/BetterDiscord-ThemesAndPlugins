@@ -795,7 +795,7 @@
 /*User Popup*/
     #app-mount .userProfileOuterUnthemed_c69a7b .userProfileInner_c69a7b,
     #app-mount .userProfileOuterUnthemed_c69a7b {
-        background: transparent;
+        background: (--transparency-3);
     }
     
     #app-mount .userProfileOuterUnthemed_c69a7b { background-color: var(--secondary3-colour)!important; }
